@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.1.10
+FROM gcr.io/google_containers/etcd-amd64:3.1.12
 MAINTAINER FoxChan
