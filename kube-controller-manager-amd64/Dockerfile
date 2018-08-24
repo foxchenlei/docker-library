@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.8.13
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.8.15
 MAINTAINER FoxChan
